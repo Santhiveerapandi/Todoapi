@@ -1,0 +1,6 @@
+@TodoApi_HostAddress = http://192.168.0.7:5252
+
+GET {{TodoApi_HostAddress}}/student/
+Accept: application/json
+
+###
